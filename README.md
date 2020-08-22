@@ -1,5 +1,5 @@
 # SolveCrossword
-
+```
 Usage:
   javac SolveCrossword.java
   java SolveCrossword <input string>
@@ -37,3 +37,4 @@ was
 crs
 scr
 csw
+```
